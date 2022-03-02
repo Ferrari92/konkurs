@@ -1,0 +1,162 @@
+.kl {
+    color: green;
+}
+.op {
+    color: orangered;
+    font-size: larger;
+}
+.nav {
+    margin-top: 30px;
+}
+.ty {
+    width: 30px;
+    height: 30px;
+}
+.rt {
+    color: green;
+}
+.hj {
+    width: 60px;
+    height: 60px;
+}
+.blok {
+    display: flex;
+}
+.blok2 {
+    display: flex;
+    justify-content: space-between;
+}
+.dd {
+    color: green;
+    text-align: center;
+}
+.as {
+    list-style: none;
+}
+.sssss {
+    text-decoration: none;
+}
+.ui {
+    text-align: center;
+}
+.section8 {
+    margin-top: 10px;
+    display: flex;
+}
+.box7 {
+    box-sizing: border-box;
+}
+.blok7 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: lightcoral;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.z {
+    color: green;
+}
+.i {
+    color: red;
+}
+.boxx {
+    display: flex;
+    box-sizing: border-box;
+}
+.qqq {
+    list-style: none;
+}
+.ettt {
+    text-align: center;
+    color: green;
+}
+.errr {
+    color: indigo;
+    text-align: center;
+}
+.tyy {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.sss {
+    margin-left: 20px;
+}
+.blok8 {
+    max-width:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color:black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.box8 {
+    max-width: auto;
+    box-sizing: border-box;
+}
+.kkk {
+    color: blanchedalmond;
+    text-align: center;
+    font-weight: 700;
+}
+.box78 {
+    margin-right: 20px;
+}
+.hh {
+    color: green;
+}
+.blok3 {
+    display: flex;
+}
+.card-img-top
+{
+    opacity:0.5;
+}
+.card-img-top:hover
+{
+    opacity:1;
+}
+.ab:hover
+{
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.kj:hover
+{
+    box-shadow:
+        1px 1px hsl(0, 96%, 30%),
+        2px 2px #ea5353,
+        3px 3px hsl(0, 97%, 46%);
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);
+}
+.kl:hover{
+    color: blue;
+    font-size: 150%;
+}
+.op {
+    color: blue;
+    font-size: 150%;
+}
+.jk:hover {
+    color: red;
+}
+.kkk:hover{
+    color: gold;
+}
+.z:hover {
+color: hsl(0, 96%, 30%);
+}
+.ettt:hover {
+    color: hsl(0, 97%, 46%);
+}
+.qqq:hover {
+    color: hsl(0, 97%, 46%);
+}
+#i:hover{
+    color: blue;
+    font-size: 150%;
+}
